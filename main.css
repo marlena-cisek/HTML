@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: rgb(14, 60, 185);
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.navigation-link{
+
+    color: rgb(14, 60, 185);
+    text-decoration: none;
+}
